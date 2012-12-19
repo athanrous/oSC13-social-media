@@ -1,0 +1,66 @@
+=================================== Instructions ===================================
+ 
+1) Create a profile in openSUSE Connect and openSUSE infrastructure as well [1] and then login.
+
+2) Join the group called "oSC13 The Summer is Coming" [2].
+
+3) Go to "Group discussion section" [3] where you can see all the categories of the social media.
+ 
+4) Add your link to the corresponding category [please use a link shorten tool for your links. Submit the shorten link].
+
+[1] https://connect.opensuse.org/ICSLogin/?%22https://connect.opensuse.org//%22
+[2] https://connect.opensuse.org/pg/groups/42396/osc13-the-summer-is-coming/
+[3] https://connect.opensuse.org/pg/groups/forum/42396/
+
+=================================== Social Media Categories ===================================
+
+1) Articles - Blogs 
+
+Write where you post a blogpost or article. Write the exact link and any information you think it's relevant.
+
+2) Facebook
+ 
+Clicking on this “Date-Time” element of your post , will show you to the post in a new tab. And from there you can simply copy past the URL of the post.
+
+
+3) Forums
+ 
+Write the full address of the forum you posted. Don't forget to re-post new information so the thread will be on the top of the forum threads.
+
+   
+4) Google+
+ 
+From your Google+ profile , at the right side of your post [in a community or group] left click   "Options Menu -> Link to this post" . Then the link of your post will appear!
+
+
+5) Identi.ca
+ 
+You can get the link from your RSS.  For example the link of openSUSE's RSS identi.ca is:
+ 
+http://identi.ca/opensuse/rss
+
+
+6) Linked.in
+ 
+Usually, you post in a group. If you click on the post you can see the link on the address bar. Unfortunately, you cannot short this link. You can write it as it is.
+  
+
+7) Mailing Lists
+ 
+Write the exact address of the thread. You can find it in the archive list.
+
+ 
+8) Twitter
+ 
+You can get the link from your tweet from your RSS. For example openSUSE's RSS link is
+ 
+https://api.twitter.com/1/statuses/user_timeline.rss?screen_name=opensuse
+  
+ 
+
+ 
+
+  
+
+
+ 
