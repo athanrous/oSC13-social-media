@@ -2,6 +2,8 @@
 
 ***** Communities *******
 
+EVENT PAGE  https://plus.google.com/events/c9cg77dsk32ci7jaf4rqbqbnvlg
+
 Date: [Dec 10th, 2012 (initial announcement from the news)]
 
 openSUSE http://bit.ly/Sh6Mkg
@@ -17,6 +19,10 @@ Gnome Greece http://bit.ly/UVuelI
 openSUSE Greece http://bit.ly/QWE5HF
 
 
-Date [ ]
+Date [Jan 24th, 2013 (announcement from the news)]
+
+openSUSE Greece  http://bit.ly/11ZxPUu
+
+openSUSE (Spanish translation)  http://bit.ly/Ywsgfv
 
 Date [ ]
